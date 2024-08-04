@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AhXre7UIzBzGddEHtSZkBzZVgFgpWRXkY4G/GcJbuGA=",
+  "Source": "mytestapi",
+  "BasePath": "_content/mytestapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
